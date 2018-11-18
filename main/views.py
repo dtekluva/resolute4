@@ -8,14 +8,47 @@ from django.core import serializers
 import math
 import datetime
 from snippet import helpers
+from os import path
+from django.views.decorators.csrf import csrf_exempt
 # from rest_framework import serializers
 # Create your views here.
 
 host = 'http://localhost:8000/'
+print('<===RAN THIS FILE===>'.center(20))
 
+@csrf_exempt
 def main(request):
-    cars = Customer.objects.all()
-    return render(request, 'quickbooks/skin-compact.html', {"cars":cars})
+# Create your views here.    
+    print(request.body)
+    reqPOST = str(request.body)
+    reqGET = str(request.GET)
+    print(str(request.GET))
+    print(str(request.POST.get('resource')))
+    raw_time = str(datetime.datetime.now())
+    clean_time = raw_time[:18]
+
+    if path.exists("log.txt"):
+        log = open('log.txt', 'a')
+    else:
+        log = open('log.txt', 'a')
+        log.write('|-------TIME-------, -------POST-------, ------GET-------|\n')
+
+    new_log = '{0},{1},{2}\n'.format(clean_time,reqPOST,reqGET)
+    log.writelines(new_log )
+    log.close()
+
+    return HttpResponse(read_file())
+
+def read_file():
+    log = open('log.txt', 'r')
+    raw_response = (log.read().split('\n'))
+    # print(raw_response)
+    response = ''
+    for line in raw_response:
+        response += '<div>'+ str(line.replace('<','\t')).replace('>','\t').replace(',', '  <===>  ') + '<div>'
+    log.close()
+    return response
+
     
 @csrf_exempt
 def end(request):

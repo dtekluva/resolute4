@@ -1,0 +1,639 @@
+|-------TIME-------, -------POST-------, ------GET-------|
+2018-11-10 12:33:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 12:35:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 12:41:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 12:45:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 12:52:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 12:55:1,<QueryDict: {}>,<QueryDict: {'()()()': ['']}>
+2018-11-10 12:55:3,<QueryDict: {}>,<QueryDict: {"'()()()''": ['']}>
+2018-11-10 12:56:1,<QueryDict: {}>,<QueryDict: {'45355': ['']}>
+2018-11-10 12:57:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-10 13:02:4,<QueryDict: {}>,<QueryDict: {'hj': ['']}>
+2018-11-10 13:07:1,<QueryDict: {}>,<QueryDict: {'hj': ['']}>
+2018-11-10 13:47:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 18:42:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:13:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:13:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:13:4,<QueryDict: {}>,<QueryDict: {'name': ['adaku']}>
+2018-11-13 19:21:3,<QueryDict: {}>,<QueryDict: {'name': ['adaku']}>
+2018-11-13 19:22:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:34:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:34:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:35:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:41:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:43:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:44:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:44:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:44:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:45:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 19:54:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 20:14:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-13 20:43:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 20:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 21:58:5,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-13 22:37:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-13 22:37:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-13 22:57:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:29:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:31:3,<QueryDict: {}>,<QueryDict: {"('name": ["nksdlm')"]}>
+2018-11-14 20:31:4,<QueryDict: {}>,<QueryDict: {"'('name": ["nksdlm')'"]}>
+2018-11-14 20:32:2,<QueryDict: {}>,<QueryDict: {" '('name": ["nksdlm')'"]}>
+2018-11-14 20:33:1,<QueryDict: {}>,<QueryDict: {"'('name": ["nksdlm')'"]}>
+2018-11-14 20:33:2,<QueryDict: {}>,<QueryDict: {"--'('name": ["nksdlm')'"]}>
+2018-11-14 20:33:5,<QueryDict: {}>,<QueryDict: {'--name': ["'('nksdlm')'"]}>
+2018-11-14 20:34:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:36:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:51:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:51:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-14 20:51:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-15 18:23:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:12:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:12:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:13:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:14:1,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:14:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:14:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:15:5,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:18:1,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:18:1,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:20:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:23:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:30:0,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:34:1,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:34:3,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:36:2,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:36:5,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:36:5,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 12:39:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:40:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:41:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:41:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:41:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:42:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:42:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:43:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:43:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:43:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:43:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:53:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:53:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:53:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:53:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:53:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:54:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:56:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 12:57:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:25:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:25:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:25:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:26:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:26:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:26:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:27:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:27:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:27:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:28:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:29:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:29:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:29:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:30:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:30:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:30:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:31:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:31:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:31:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:32:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:32:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:32:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:33:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:33:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:33:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:34:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:34:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:34:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:35:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:35:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:35:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:36:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:36:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:36:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:36:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:37:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:37:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:37:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:38:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:38:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:38:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:39:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:39:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:39:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:40:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:40:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:40:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:41:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:41:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:41:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:42:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:42:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:43:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:43:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:43:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:44:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:44:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:44:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:45:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:45:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:45:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:46:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:46:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:46:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:47:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:47:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:47:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:48:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:48:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:48:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:49:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:49:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:49:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:50:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:50:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:51:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:51:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:51:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:52:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:52:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:52:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:53:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:53:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:54:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:54:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:55:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:55:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:55:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:56:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:56:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:56:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:57:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:57:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:57:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:58:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:58:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:58:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:59:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 16:59:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:00:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:00:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:00:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:01:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:01:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:01:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:02:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:02:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:02:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:03:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:03:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:03:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:04:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:04:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:05:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:05:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:05:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:06:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:06:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:06:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:07:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:07:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:07:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:08:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:08:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:09:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:09:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:09:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:10:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:10:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:10:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:11:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:11:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:11:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:12:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:12:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:13:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:13:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:13:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:14:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:14:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:15:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:15:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:15:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:16:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:16:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:16:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:17:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:17:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:18:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:18:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:18:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:19:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:19:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:20:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:20:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:21:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:21:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:21:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:22:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:22:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:23:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:23:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:23:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:23:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:24:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:24:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:25:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:25:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:25:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:26:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:26:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:26:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:26:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:27:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:27:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:28:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:41:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:41:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:41:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:41:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 17:45:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 17:45:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 17:45:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 17:45:4,<QueryDict: {}>,<QueryDict: {'name': ['gghbhj']}>
+2018-11-16 18:03:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:05:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:05:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:31:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:33:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:33:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:34:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:34:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:34:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:35:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:35:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:36:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-16 18:52:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:31:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:41:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:42:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:42:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:43:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:43:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:44:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:44:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:45:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:45:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:45:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:46:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:46:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:47:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:47:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:48:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:48:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:48:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:49:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:50:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:50:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:51:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:51:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:51:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:52:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:52:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:53:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:53:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:54:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:54:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:54:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:55:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:55:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:56:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:56:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:57:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:58:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:58:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:58:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-17 22:59:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:30:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:31:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:31:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:32:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:32:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:32:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:33:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:33:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:34:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:34:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:35:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:35:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:35:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:36:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:36:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:37:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:37:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:38:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:38:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:38:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:39:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:39:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:40:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:40:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:41:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:41:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:42:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:42:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:42:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:43:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:43:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:44:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:44:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:45:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:45:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:46:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:46:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:47:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:47:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:47:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:48:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:48:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:49:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:49:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:50:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:51:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:51:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:51:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:52:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:52:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:53:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 11:53:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:00:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:02:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:04:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:05:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:06:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:08:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:09:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:11:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:12:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:13:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:13:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:14:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:14:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:15:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:15:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:15:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:16:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:16:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:17:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:18:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:18:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:19:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:19:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:19:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:20:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:20:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:21:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:21:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:22:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:22:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:23:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:23:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:24:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:24:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:25:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:25:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:25:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:26:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:26:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:27:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:27:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:28:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:28:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:29:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:29:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:30:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:31:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:31:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:32:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:32:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:36:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:37:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:38:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:38:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:39:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:39:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:40:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:40:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:41:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:41:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:41:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:42:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:42:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:43:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:44:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:45:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:46:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:46:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:46:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:47:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:47:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:48:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:48:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:49:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:49:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:50:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:50:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:51:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:51:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:52:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:52:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:53:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:53:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:54:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:54:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:55:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:55:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:56:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:56:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:57:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:57:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:58:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 12:59:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:01:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:02:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:02:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:03:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:04:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:05:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:06:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:07:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:09:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:10:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:12:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:48:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:48:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:49:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:49:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:50:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:51:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:51:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:52:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:52:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:52:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:53:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:53:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:54:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:54:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:55:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:55:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:56:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:56:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:57:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:57:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:58:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:58:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:59:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 13:59:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:00:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:00:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:01:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:01:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:02:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:02:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:03:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:04:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:04:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:05:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:05:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:06:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:06:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:07:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:07:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:08:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:08:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:09:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:09:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:10:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:10:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:13:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:14:1,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:14:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:15:4,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:17:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:18:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:18:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:19:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:19:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:20:2,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:20:5,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:21:3,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:22:0,<QueryDict: {}>,<QueryDict: {}>
+2018-11-18 14:25:2,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:09","etype":"G_PING","engine":"OFF","lat":"6.656160","lon":"3.318593","vbat":"4032","speed":"3.25","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:25:5,b'',<QueryDict: {}>
+2018-11-18 14:26:2,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:10","etype":"G_PING","engine":"OFF","lat":"6.656462","lon":"3.318343","vbat":"4049","speed":"5.43","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:27:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:14","etype":"G_PING","engine":"OFF","lat":"6.656408","lon":"3.318012","vbat":"4032","speed":"7.97","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:29:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:15","etype":"G_PING","engine":"OFF","lat":"6.655935","lon":"3.317983","vbat":"4049","speed":"4.262","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:29:3,b'',<QueryDict: {}>
+2018-11-18 14:29:4,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:16","etype":"G_PING","engine":"OFF","lat":"6.655887","lon":"3.318070","vbat":"4054","speed":"2.562","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:32:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:19","etype":"G_PING","engine":"OFF","lat":"6.655348","lon":"3.318083","vbat":"4054","speed":"3.572","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:33:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:20","etype":"G_PING","engine":"OFF","lat":"6.655808","lon":"3.318208","vbat":"4038","speed":"8.172","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:34:0,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:21","etype":"G_PING","engine":"OFF","lat":"6.655957","lon":"3.318178","vbat":"4049","speed":"7.152","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:35:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:18:22","etype":"G_PING","engine":"OFF","lat":"6.656267","lon":"3.318198","vbat":"4032","speed":"3.102","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:45:0,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:19:46","etype":"G_PING","engine":"OFF","lat":"6.657068","lon":"3.318202","vbat":"4054","speed":"2.512","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:45:4,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:20:17","etype":"G_PING","engine":"OFF","lat":"6.656753","lon":"3.318193","vbat":"4054","speed":"1.242","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:46:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:20:48","etype":"G_PING","engine":"OFF","lat":"6.656683","lon":"3.318210","vbat":"4032","speed":"2.322","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:47:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:21:24","etype":"G_PING","engine":"OFF","lat":"6.656653","lon":"3.318172","vbat":"4043","speed":"0.002","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:49:0,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:21:24","etype":"G_PING","engine":"OFF","lat":"6.657218","lon":"3.318193","vbat":"4043","speed":"2.192","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:49:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:21:55","etype":"G_PING","engine":"OFF","lat":"6.657673","lon":"3.318247","vbat":"4054","speed":"1.982","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:50:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:22:28","etype":"G_PING","engine":"OFF","lat":"6.657690","lon":"3.318185","vbat":"4038","speed":"1.542","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:52:0,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:25:44","etype":"G_PING","engine":"OFF","lat":"6.658200","lon":"3.318137","vbat":"4054","speed":"2.192","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:52:4,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:26:16","etype":"G_PING","engine":"OFF","lat":"0.000000","lon":"0.000000","vbat":"4027","speed":"4.162","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:54:4,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:26:50","etype":"G_PING","engine":"OFF","lat":"0.000000","lon":"0.000000","vbat":"4049","speed":"2.632","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:55:2,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:27:04","etype":"G_PING","engine":"OFF","lat":"6.658265","lon":"3.318087","vbat":"4038","speed":"6.442","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:56:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:27:28","etype":"G_PING","engine":"OFF","lat":"6.657745","lon":"3.318083","vbat":"4043","speed":"1.202","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 14:58:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:27:43","etype":"G_PING","engine":"OFF","lat":"6.656857","lon":"3.318080","vbat":"4032","speed":"3.382","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:00:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:28:19","etype":"G_PING","engine":"OFF","lat":"6.656112","lon":"3.318235","vbat":"4021","speed":"1.932","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:01:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:29:36","etype":"G_PING","engine":"OFF","lat":"6.655568","lon":"3.318305","vbat":"4043","speed":"1.552","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:02:2,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:30:12","etype":"G_PING","engine":"OFF","lat":"6.655237","lon":"3.318497","vbat":"4054","speed":"0.802","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:03:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:31:29","etype":"G_PING","engine":"OFF","lat":"6.654857","lon":"3.318498","vbat":"4038","speed":"0.002","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:05:1,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:31:45","etype":"G_PING","engine":"OFF","lat":"6.654207","lon":"3.318383","vbat":"4038","speed":"1.452","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:05:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:33:05","etype":"G_PING","engine":"OFF","lat":"6.654250","lon":"3.318618","vbat":"4054","speed":"4.102","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:06:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:33:51","etype":"G_PING","engine":"OFF","lat":"6.654247","lon":"3.318705","vbat":"4049","speed":"1.882","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:07:5,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:34:27","etype":"G_PING","engine":"OFF","lat":"6.654117","lon":"3.318395","vbat":"4043","speed":"4.492","pInt":"1","fuel":0}]}',<QueryDict: {}>
+2018-11-18 15:08:3,b'{"resource":[{"devid":"868345033143264","time":"2018-11-18 15:36:26","etype":"G_PING","engine":"OFF","lat":"6.654152","lon":"3.318478","vbat":"4049","speed":"0.002","pInt":"1","fuel":0}]}',<QueryDict: {}>
