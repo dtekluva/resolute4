@@ -1,3 +1,5 @@
 settings.py
 log.csv
 log.txt
+**/settings
+.pyc

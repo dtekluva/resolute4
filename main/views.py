@@ -13,19 +13,20 @@ from django.views.decorators.csrf import csrf_exempt
 # from rest_framework import serializers
 # Create your views here.
 
-host = 'http://localhost:8000/'
+host = "http://localhost:8000/"
 print('<===RAN THIS FILE===>'.center(20))
 
 @csrf_exempt
 def main(request):
 # Create your views here.    
-    print(request.body)
-    reqPOST = str(request.body)
-    reqGET = str(request.GET)
-    print(str(request.GET))
-    print(str(request.POST.get('resource')))
-    raw_time = str(datetime.datetime.now())
-    clean_time = raw_time[:18]
+    # print(request.body)
+    if request.method == 'POST':    
+        reqPOST = str(request.body)
+        reqGET = str(json.loads(request.body))
+        print(str(reqGET))
+        print(request.POST.get('resource', ''))
+        raw_time = str(datetime.datetime.now())
+        clean_time = raw_time[:18]
 
     if path.exists("log.txt"):
         log = open('log.txt', 'a')
@@ -108,3 +109,4 @@ def check_distance(old_coord, new_coord):
     
     else:
         return False
+
